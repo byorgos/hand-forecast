@@ -6,6 +6,7 @@ authors:
   - family-names: Bouloukakis
     given-names: George
 repository-code: "https://github.com/byorgos/hand-forecast"
+doi: "10.5281/zenodo.20257890"
 license: MIT
 version: 1.0.0
 date-released: 2026-05-17

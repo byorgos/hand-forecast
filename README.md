@@ -47,7 +47,7 @@ Written to `--output-dir`:
 
 ## Citation
 
-Citation metadata is provided in `CITATION.cff`. Replace the placeholder DOI once the Zenodo archive of this repository is generated.
+Citation metadata is provided in `CITATION.cff`. The Zenodo archive of this repository is available at [doi:10.5281/zenodo.20257890](https://doi.org/10.5281/zenodo.20257890).
 
 ## License
 
