@@ -2,7 +2,7 @@
 
 Reproducibility package for the manuscript's forecasting analysis of global hand-surgery publication output. Given annual publication counts, this repository reproduces:
 
-- Model-comparison metrics (`R`, `R²`, `AIC`, `BIC`, rolling-origin `MAE`/`RMSE`/`MAPE`) for eight candidate forecast models.
+- Model-comparison metrics (`R`, `R²`, `AIC`, `BIC`, rolling-origin `MAE`/`RMSE`/`MAPE`) for seven candidate forecast models.
 - Year-by-year point forecasts for 2026–2030.
 - 95% residual-bootstrap prediction intervals.
 - A structural-shift summary comparing the observed 2025 count to the pre-2025 linear trend.
